@@ -4,7 +4,7 @@ Este projeto foi desenvolvido utilizando as tecnologias
 
 Ruby, HttpParty e Rspec.
 
-Foram feitos testes em cada endpoimt e logo depois foi realizado o teste de contrato de todos os endpoimt
+Foram feitos testes em cada endpoint e logo depois foi realizado o teste de contrato de todos os endpoint
 
 No arquivo spec_helper.rb e vehicles_services.rb possuir alguns comentarios para mostrar o que o codigo está fazendo 
 Como configuração de rota e  verificação de apos cada chamada de um endpoimt
