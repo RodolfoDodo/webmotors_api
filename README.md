@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido utilizando as tecnologias
 
-Ruby e Rspec.
+Ruby, HttpParty e Rspec.
 
 Foram feitos testes em cada endpoimt e logo depois foi realizado o teste de contrato de todos os endpoimt
 
